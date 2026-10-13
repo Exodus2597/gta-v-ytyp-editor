@@ -1,0 +1,8 @@
+/vendor/
+/artifacts/
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.bak
