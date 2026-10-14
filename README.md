@@ -63,8 +63,6 @@ Existing checks cover native open/edit/add/build/reopen, readable names after cl
 
 The editor's original source is licensed under [MIT](LICENSE).
 
-Native resource parsing and compilation use [CodeWalker by dexyfex](https://github.com/dexyfex/CodeWalker) and SharpDX 4.2.0. CodeWalker's [Readme_Src.txt](https://github.com/dexyfex/CodeWalker/blob/master/Readme_Src.txt) states: **“This source code is released for educational purposes only.”** Its notices also identify separately licensed contributions.
-
 CodeWalker source is downloaded separately for building; the executable embeds CodeWalker Core. CodeWalker, SharpDX, and the .NET runtime retain their own terms and notices. The editor's MIT licence does not relicense those dependencies.
 
 See [release instructions](docs/PUBLISHING.md) and the unchanged dependency notices in [licenses](licenses/).
